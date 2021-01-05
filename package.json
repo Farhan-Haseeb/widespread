@@ -13,7 +13,7 @@
     "@highcharts/highcharts-react-native": "^2.1.2",
     "@react-native-community/async-storage": "^1.8.1",
     "@react-native-community/geolocation": "^2.0.2",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "lodash": "^4.17.15",
     "react": "16.9.0",
     "react-native": "0.61.5",
